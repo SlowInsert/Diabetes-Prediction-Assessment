@@ -1,2 +1,2 @@
 # Diabetes-Prediction
-Expert AI algorithm to predict t
+Expert AI algorithm to predict Diabeties 
