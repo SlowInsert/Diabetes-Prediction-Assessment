@@ -134,5 +134,5 @@ while True:
     elif prediction[0] == 2:
         print('The patient is at risk of Diabetes')
         print("")
-#(1,50,4.7,46,4.9,4.2,0.9,2.4,1.4,0.5,24)
+
 
